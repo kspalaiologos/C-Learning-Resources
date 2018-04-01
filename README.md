@@ -1,11 +1,11 @@
 # C learning resources
 This repository contains list of books and other resources about C programming that are in my opinion best to learn from. There are many sources but not every is correct. This way, beginners make a lot of mistakes in their code. I'm suggesting to read books in the order I've provided.
-##### Where **not** to learn from:
+#### Where **not** to learn from:
  - [TutorialsPoint](https://www.tutorialspoint.com/cprogramming/index.htm). TutorialsPoint is an good website for **reference** not learning. If you want to learn something to it's fullest, get a book.
  - [Udemy](https://www.udemy.com/c-programming-for-beginners/). Udemy is not good place to learn C from. Courses cost pretty much ($100). **Some courses recommend using old Borland C++ Builder** - learning outdated stuff is not way to go.
  - [SoloLearn](https://www.sololearn.com/). SoloLearn does not offer any course to learn C from. The website teaches you **how** to do something, while your own experience teaches you how to *do* something.
  - [Youtube](https://youtube.com/). Learning from various youtube channels that are not-so-popular is not a good idea. You need solid place to learn from. Although, there are channels like [this one](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw). They introduce really bad programming practices and learn how to **not** program.
-##### Where to learn from:
+#### Where to learn from:
  - [K&R book](http://cs.indstate.edu/~cbasavaraj/cs559/the_c_programming_language_2.pdf) is often thought as the bible of C. There are many C standards but K&R C is thought as the most common - every compiler has to support it. The most used standard is C89, although we have C99 and C11 that are more recent. This way, K&R book is always on topic. It was written by creators of C - they can't be wrong.
    * Pros:
      * This book is **written by Dennis Ritchie**, who **was one of the main people behind the development and design of C** and UNIX.
