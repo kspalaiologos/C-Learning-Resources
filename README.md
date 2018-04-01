@@ -25,11 +25,12 @@ This repository contains list of books and other resources about C programming t
    * Pros
      * It's not just about C. It will teach to become an over-all better programmer and give a better understanding of computer science. You are going to learn about things like testing, debugging, and sorting algorithms.
      * Includes 52 practical project ideas that include everything from pointers to stacks and queues.
-   * Cons:
-     * States in the preface that it is not for first-time programmers. Better check something other, if you are new to C.
+   * Con: States in the preface that it is not for first-time programmers. Better check something other, if you are new to C.
  * [C Programming Absolute Beginner's Guide (3rd Edition)](https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984). It's suggested to check out this book if others are too hard for you.
-   * Pros
-   * Cons
+   * Pro: There are 32 chapters in the book, which is 352 pages long. The short chapters make it extremely easy to use this book as a reference, and breaks everything down into small pieces that are easy to digest.
+   * Con: This book, as the title suggests, is really aimed at people with no prior programming experience.
+Fundamentals are gone through in detail, this would be quite a slow review for someone with experience in another language.
+ * (NASA C style book)[http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf]. This book is pretty nice place to learn proper way how to program in C to write readable code.
 
 Please note that this list as stated on beginning, is based primarily on my opinion. If you disagree with some facts, please open issue / submit a pull request that contents are satisfying you. I am working on a C book that after review will probably get on this list.
 Books that I am not sure about quality:
