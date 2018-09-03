@@ -14,7 +14,7 @@ This repository contains list of books and other resources about C programming t
      * The challenges at the end of each chapter do a great job requiring many of the skills learned up to that point. Completing the challenges is a great way of insuring that you understand the material.
    * Cons:
      * The K&R style works for old Unix mainframe command-line programs that exit after a simple task and leave the cleanup to the OS; where input is only from trusted experts; and most functions are only called internally to the program. The environment is very different today. This style will get your server pwned by hackers, or crash it due to a memory leak. You will have to learn C again to use C correctly in the real world **today**.
-     * Some commands and practices are out of date, so errata and googling is needed while going through the book.
+     * Some and practices are out of date, so errata and googling is needed while going through the book.
      * Assumes familiarity not only with programming concepts but some C language specifics which are not so simple for beginners.
  * [C Programming: Modern approach, 2nd Edition](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
    * Pros:
