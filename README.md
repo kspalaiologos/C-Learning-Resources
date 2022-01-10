@@ -31,10 +31,11 @@ This repository contains list of books and other resources about C programming t
    * Con: This book, as the title suggests, is really aimed at people with no prior programming experience.
 Fundamentals are gone through in detail, this would be quite a slow review for someone with experience in another language.
  * [NASA C style book](https://web.archive.org/web/20130718191933/http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf). This book is pretty nice place to learn proper way how to program in C to write readable code.
+ * [Steve Summit's C notes](https://www.eskimo.com/~scs/cclass/). These notes expand on the K&R book. You'll find other C goodies in [his](https://www.eskimo.com/~scs/) main webpage too.
 
 Please note that this list as stated on beginning, is based primarily on my opinion. If you disagree with some facts, please open issue / submit a pull request that contents are satisfying you. I am working on a C book that after review will probably get on this list.
 Books that I am not sure about quality:
- * [Programming in C (4th Edition) (Developer's Library)](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0321776410&pd_rd_r=F4EZTNWZYDBJA50CBXYE&pd_rd_w=ZihCY&pd_rd_wg=4ehaO&psc=1&refRID=F4EZTNWZYDBJA50CBXYE)
+ * [Programming in C (4th Edition) (Developer's Library)](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0321776410&pd_rd_r=F4EZTNWZYDBJA50CBXYE&pd_rd_w=ZihCY&pd_rd_wg=4ehaO&psc=1&refRID=F4EZTNWZYDBJA50CBXYE).
  
  # Why to learn C?
 
