@@ -34,7 +34,7 @@ This repository contains a list of books and other resources about C programming
 Fundamentals are gone through in detail, this would be quite a slow review for someone with experience in another language.
  * [NASA C style book](https://web.archive.org/web/20130718191933/http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf). This book is pretty nice place to learn the proper way on how to program in C to write readable code.
  * [Steve Summit's C notes](https://www.eskimo.com/~scs/cclass/). These notes expand on the K&R book. You'll find other C goodies in [his](https://www.eskimo.com/~scs/) main webpage too.
- * Scaler Topics - C Tutorial(https://www.scaler.com/topics/c). This tutorial explains C programming in detail, so any beginners can learn C programming from the scratch. Eeach topics is explained in order wise, hence it will help a beginner can start their journey into learning C in an organised way.
+ * [Scaler Topics - C Tutorial](https://www.scaler.com/topics/c). This tutorial explains C programming in detail, so any beginners can learn C programming from the scratch. Eeach topics is explained in order wise, hence it will help a beginner can start their journey into learning C in an organised way.
 
 #### Books that I am not sure about their quality:
 
