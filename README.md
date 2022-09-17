@@ -8,7 +8,7 @@ This repository contains a list of books and other resources about C programming
  - [Youtube](https://youtube.com/). Learning from various youtube channels that are not-so-popular is not a good idea. You need solid place to learn from. Although, there are channels like [this one](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw), they introduce really bad programming practices and teach how **not** to program.
 
 #### Where to learn from:
- - [K&R book](https://archive.org/download/The_C_Programming_Language/The_C_Programming_Language.pdf) is often thought as the Bible of C. There are many C standards but K&R C is thought of as the most common - every compiler has to support it. The most used standard is C89, although we have C99 and C11 that are more recent. This way, K&R book is always on topic. It was written by the creators of C - they can't be wrong.
+ - [K&R book](https://archive.org/download/cprogbooks/k%26r.pdf) is often thought as the Bible of C. There are many C standards but K&R C is thought of as the most common - every compiler has to support it. The most used standard is C89, although we have C99 and C11 that are more recent. This way, K&R book is always on topic. It was written by the creators of C - they can't be wrong.
    * Pros:
      * This book is **written by Dennis Ritchie**, who **was one of the main people behind the development and design of C** and UNIX.
      * This book is so well known that it's affectionately called "K&R", after the authors.
