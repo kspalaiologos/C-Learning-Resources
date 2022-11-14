@@ -6,6 +6,7 @@ This repository contains a list of books and other resources about C programming
  - [Udemy](https://www.udemy.com/c-programming-for-beginners/). Udemy is not good place to learn C from. Courses cost pretty much ($100). **Some courses recommend using old Borland C++ Builder** - learning outdated stuff is not a good way to go.
  - [SoloLearn](https://www.sololearn.com/). SoloLearn does not offer any course to learn C from. The website teaches you only theoretically how to do something, while your own experience teaches practically you how to do something. Practice beats theory.
  - [Youtube](https://youtube.com/). Learning from various youtube channels that are not-so-popular is not a good idea. You need solid place to learn from. Although, there are channels like [this one](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw), they introduce really bad programming practices and teach how **not** to program.
+ - [Scaler Topics](https://www.scaler.com/topics/c/). Scaler Topics is a good platform for beginners who are learning or trying to learn C or any other programming language.
 
 #### Where to learn from:
  - [K&R book](https://archive.org/download/cprogbooks/k%26r.pdf) is often thought as the Bible of C. There are many C standards but K&R C is thought of as the most common - every compiler has to support it. The most used standard is C89, although we have C99 and C11 that are more recent. This way, K&R book is always on topic. It was written by the creators of C - they can't be wrong.
